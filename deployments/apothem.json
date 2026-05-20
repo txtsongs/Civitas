@@ -1,0 +1,12 @@
+{
+  "network": "apothem",
+  "chainId": 51,
+  "deployer": "0x54d954c705397DeE3E09fa4E2E4A728B5132EC3D",
+  "deployedAt": "2026-05-20T03:36:33.379Z",
+  "contracts": {
+    "CitizenIdentity": "0xFEEE94dDEE96bF6cbFa7168DFEB63034F4e35ECc",
+    "PromiseRegistry": "0x77cb558dbAB3Cc3E45171E7DAD968538B872f892",
+    "SpendingRecord": "0xA7211A63372eB30e28d5CBEc34F749bdF8AfA52B",
+    "CivicVote": "0xD597b4B83EbB4f84f01222EbdAC84d3393a79De6"
+  }
+}
